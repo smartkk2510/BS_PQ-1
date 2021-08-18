@@ -1,0 +1,37 @@
+.title{
+  text-align: center;
+}
+body{
+   background-color: #297F87;
+}
+.container,.container-fluid {
+  background-color: #FFF7AE;
+  padding: 15px;
+}
+h1,h2,h3{
+  color: white;
+  margin: 20px 0;
+}
+p{
+  text-align: center;
+}
+.ta{
+  font-size: 1.3rem;
+  background-color: #FFF7AE;
+}
+.wrap{
+    width: 50%;
+  font-size: 1rem;
+}
+hr{
+  border-color: white;
+  border-style: none;
+  border-top-style: solid;
+  border-width: 8px;
+}
+.button{
+  text-align: center;
+}
+.btn{
+  margin:10px;
+}
